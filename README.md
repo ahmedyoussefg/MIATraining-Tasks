@@ -9,7 +9,8 @@
 - In task 4, we applied the OOP principles of Python to build a game that has multiple villians and gadgets. The game simulates a fight between two villians and prints the output of every fight. It can be used to train a model to predict who can win the fight. In the second subtask, we made a LinearRegression Model that predicts data of a data set. In the end, we made a plot that compares the actual results with the predicted results.
 ## <strong>Task 5:</strong>
 - In task 5, I got to explore the Linux OS and Git commands. I installed Ubuntu OS on VirtualBox and made a mark-down documentations for the commands I used.
-
+## <strong>Task 6:</strong>
+- In task 6, we got to know about Sensors like MPU6050 and how to interface with them. We also learnt about Technical Documentation and got our hands to try working on Notion and LateX.
 ---
 ##### |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;You can see the implementation for each task in the corresponding branch.
 ##### |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;For more information about the tasks, you can open the PDFs in the master branch.
