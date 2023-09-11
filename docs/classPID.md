@@ -8,6 +8,7 @@
 
 
 
+* `#include <pid_control.h>`
 
 
 
@@ -205,4 +206,4 @@ double PID::proportional_term;
 
 
 ------------------------------
-The documentation for this class was generated from the following file `libraries/pid_control.h`
+The documentation for this class was generated from the following file `src/pid_control.h`
